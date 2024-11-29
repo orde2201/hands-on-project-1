@@ -74,7 +74,7 @@ do {
   }
 
   if (opt !== "5") {
-    yes = prompt("Apakah ingin mengubah to-do-list ? (y/n): ").toLowerCase();
+    yes = prompt("Apakah ingin keluar ? (y/n): ").toLowerCase();
   }
 } while (yes !== "y");
 
